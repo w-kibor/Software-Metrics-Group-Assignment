@@ -115,7 +115,5 @@ python test_refactored.py
 - All metrics have been calculated and documented
 - Code follows Python best practices and SOLID principles
 
-## Contact
 
-For questions or clarifications, refer to the assignment instructions in `University_Course_Registration_System.py`.
 
